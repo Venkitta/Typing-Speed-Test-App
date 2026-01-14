@@ -1,3 +1,7 @@
+## Typing Speed Test App
+
+This app is build with React, Next.js and Tailwind CSS for styling.
+
 ## How to become a Typing Master ⌨️
 
 It takes a while to get fast at typing. You have to type for at least 30 mins everyday until you reach a speed of 50 wpm. At 50, typing feels like magic, you are no longer looking at the keyboard, you think of a word and it just appears before you. Finding the keys almost becomes an involuntary action.✨✨✨
