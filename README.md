@@ -13,7 +13,7 @@ It helps you get from 0-50 wpm with a structured plan.
 
 Instead of typing a document for 30 min straight everyday, here you could do that in bursts of 60s. 
 
-You could also chose the passage mode where the time runs until you complete the whole passage.
+You could also choose the passage mode where the time runs until you complete the whole passage.
 
 Each session comes in 3 difficulty levels, Easy, Medium and Hard.
 
