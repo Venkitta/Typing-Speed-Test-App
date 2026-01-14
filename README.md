@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## How to become a Typing Master
 
-## Getting Started
+It takes a while to get fast at typing. You have to type for at least 30 mins everyday until you reach a speed of 50 wpm. At 50, typing feels like magic, you are no longer looking at the keyboard, you think of a word and it just appears before you. Finding the keys almost becomes an involuntary action.
 
-First, run the development server:
+But how do you get there ?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The Typing Speed Test App is a platform designed specifically for this purpose.
+It helps you get from 0-50 wpm with a structured plan. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Instead of typing a document for 30 min straight everyday, here you could do that in bursts of 60s. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You could also chose the passage mode where the time runs until you complete the whole passage.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Each session comes in 3 difficulty levels, Easy, Medium and Hard.
 
-## Learn More
+At the end of each session, you are given your accuracy and time taken to complete the test. These are recorded and you could check this later to see your progress in the Stats sections.
 
-To learn more about Next.js, take a look at the following resources:
+One important rule: Aim for maximum accuracy, that's what would make you invincible.
+Try to maintain a very high accuracy and the typing skills would just follow you.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+My personal tip: If a passage is particularly hard, try typing it for 30 mins, go about your day, *SLEEP* well and just try it again in the morning, you will most probably get close to passing the test this time around. 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
